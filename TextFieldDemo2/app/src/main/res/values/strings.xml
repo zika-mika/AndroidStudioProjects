@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextFieldDemo2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Soma</item>
+        <item>Andorra</item>
+        <item>Anngola</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GUIDEMO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_mesage">Enter a Message</string>
+    <string name="button_text">send</string>
+</resources>
